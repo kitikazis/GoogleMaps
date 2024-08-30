@@ -1,2 +1,4 @@
-package com.googlemaps.Yamir;public class Yamir {
+package com.googlemaps.Yamir;
+
+public class Yamir {
 }

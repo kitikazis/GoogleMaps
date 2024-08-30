@@ -1,2 +1,4 @@
-package com.googlemaps.Fabricio;public class Fabricio {
+package com.googlemaps.Fabricio;
+
+public class Fabricio {
 }

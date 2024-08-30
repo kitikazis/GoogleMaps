@@ -1,2 +1,4 @@
-package com.googlemaps.Sebastian;public class Sebastian {
+package com.googlemaps.Sebastian;
+
+public class Sebastian {
 }

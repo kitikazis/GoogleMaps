@@ -1,2 +1,4 @@
-package com.googlemaps.Diego;public class Diego {
+package com.googlemaps.Diego;
+
+public class Diego {
 }
