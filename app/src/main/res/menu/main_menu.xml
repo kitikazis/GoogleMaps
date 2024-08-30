@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item
+      android:id="@+id/menu_1"
+android:title="Home"
+      android:icon="@mipmap/barra_locacion" />
+    <item
+        android:id="@+id/menu_2"
+        android:title="Home"
+        android:icon="@mipmap/barra_locacion" />
+
+    <item
+        android:id="@+id/menu_3"
+        android:title="Home"
+        android:icon="@mipmap/barra_locacion" />
+
+
+
+</menu>

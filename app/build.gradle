@@ -35,7 +35,9 @@ dependencies {
     implementation libs.activity
     implementation libs.constraintlayout
     //Implementaciones INCIO
-    implementation libs.play.services.maps
+
+    implementation libs.play.services.maps.v1800
+    implementation libs.material.v190
     //Implemtanciones FIN
     testImplementation libs.junit
     androidTestImplementation libs.ext.junit
